@@ -38,7 +38,7 @@ Python Analysis — How to Run
 
 Clone the repo and navigate to the folder
 
-bash   git clone https://github.com/yourusername/stock-market-analysis.git
+bash   git clone https://github.com/liasaiyan/stock-market-analysis.git
    cd stock-market-analysis
 
 Install dependencies
