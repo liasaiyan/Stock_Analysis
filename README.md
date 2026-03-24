@@ -54,8 +54,8 @@ stock-market-analysis/
 
 1. Clone the repo and navigate to the folder
    ```bash
-   git clone https://github.com/liasaiyan/stock-market-analysis.git
-   cd stock-market-analysis
+   git clone https://github.com/liasaiyan/stock_analysis.git
+   cd stock_analysis
    ```
 
 2. Install dependencies
